@@ -5,7 +5,7 @@ import javafx.application.Platform;
 
 public class Timer extends Thread {
 
-    public static int timer = 3;
+    public static int timer = 60;
 
     private GameController controller;
 
